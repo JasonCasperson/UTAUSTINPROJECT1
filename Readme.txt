@@ -1,6 +1,4 @@
-Introduction here***
-
-
+For our groups project, we examined data from the CDC(https://catalog.data.gov/dataset/vsrr-provisional-drug-overdose-death-counts) and Rutgers to investigate the nationwide issue of drug overdose deaths. We wanted to understand if there truly is an opioid crisis occuring in our country and if there are any socieconic factors that contribute negativly or decrease the amount of OD deaths state/nation wide. 
 
 
 After downloading the data from the CDC our teams first steps were to understand what data was represented in the file.  We explored which drugs, states and years were used in the data set, then filtered our new data sets down to contain only the values we wanted. We removed blank values and reorganized our data so it was clearer to understand. Finally we made graphs depicting the key findings of the data set.
@@ -19,4 +17,9 @@ The final factor our group analyzed brought in another dataset from schoolfundin
 
 
 
-Conclusion here**
+Through our examninations, we were able to conclude several findings:
+1. Based on our data , the number of overdoses per year has significantly increased since 2015.
+2. Opioids account for the vast majority of overdose deaths in the US and the number of deaths have increased dramatically starting in 2019. This is evidience of a crisis.
+3. There seems to be no correlation between school funding an drugoverdose deaths. 
+
+
