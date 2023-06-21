@@ -22,7 +22,7 @@ From this we can conclude that with an upward treading reaching numbers twice an
 
 Question #2 
 
-# Question: How many drug overdoses are there in the U.S. and which state has the highest death count?
+#Question: How many drug overdoses are there in the U.S. and which state has the highest death count?
 Using the VSRR dataset we got from the CDC, I filtered the dataset to eliminate the columns that were unnecessary and only contain the overall US statistics for all years included in the data, 2015-2022. I created summed totals for all years and defined a function to calculate the percentage increase among the years, I then proceeded to graph my findings using a bar graph titled: 'Number of Total Drug Overdose Deaths in the US' .  My conclusion for this graph is that from 2015 up until 2022 there has been an overall increase of drug overdose deaths in the U.S. by about 113.86% . There was a moment in between these years from 2017-2019 when the overall deaths remained almost the same with there even being a small decrease in 2019 of 0.43%. We see the biggest jump in overdose deaths in between 2020 and 2021 with a total of 221,145 deaths or an increase of 22.21%
 
 For my second visualization Titled: 'Top 5 States : Most Drug Overdose Deaths in the past 3 years', I visualized data from the same VSRR dataset from the CDC but this time filtered the dataset to contain statistics for each state and only using the past 3 years, 2020-2022. The reason for only this is to visualize the most recent data and also because those years had the most deaths as shown in my first visualization. I summed up the totals and calculated the average per state and discovered the following conclusions.
