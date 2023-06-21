@@ -37,7 +37,7 @@ The top 5 states with the most overdose deaths combined for all three years are 
 The average combined overdose death count for all states is 22,296 Deaths
 
 
-
+#Question 3
 The final factor our group analyzed brought in another dataset from schoolfundingfairness.org and compared Federal and State Funding to drug overdoses. To look at this, we first cleaned the new dataset and created a statistic standardized based off the number of students in the district. Our predicotr was the Mean of (Federal Funding + State Funding/ # of students). We grouped this information by state and merged the dataset with the original Drug Overdose information to perform our analysis. Both graphs indicated a minor correlation and if anything this correlation showed positive indicating higher educational funding would predict drug overdoses. For this reason it is safe to say with a basic linear regression test that there is no correlation between these two variables. Correlation statisics showed as 0.07 and 0.09 respectively.
 
 
