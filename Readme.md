@@ -8,15 +8,18 @@ Question#1
 2 Pscyho Stimulants
 3 Cocaine 
 4 Herion
+5 Methadone
 
 After downloading the data from the CDC our teams first steps were to understand what data was represented in the file.  We explored which drugs, states and years were used in the data set, then filtered our new data sets down to contain only the values we wanted. We removed blank values and reorganized our data so it was clearer to understand. Finally we made graphs depicting the key findings of the data set.
 
 
-#Question is there an opiod crisis in the US
+#Question:is there an opiod crisis in the US?
+
+Question#2
 
 For my second graph I filtered for deaths from only the top four lethal drugs and compared them over time.
 From this we found that Opiods were responsible for over 800kdeaths while the next most lethal drugs Psycho stimulants had only 400k
-The reamining three drugs had less that 300k deaths with heroin use decreasing over time.
+The reamining three drugs which were all opiods had less that 300k deaths with heroin use decreasing over time.
 From this we can conclude that with an upward treading reaching numbers twice and great as the next drug on the list, there is an opiod crisis in the country
 
 
