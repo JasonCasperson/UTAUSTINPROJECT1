@@ -1,8 +1,6 @@
 For our groups project, we examined data from the CDC(https://catalog.data.gov/dataset/vsrr-provisional-drug-overdose-death-counts) and Rutgers to investigate the nationwide issue of drug overdose deaths. We wanted to understand if there truly is an opioid crisis occuring in our country and if there are any socioeconomic factors that contribute negativly or decrease the amount of OD deaths state/nation wide. 
 
-#Question: Which drugs are the most lethal.
-
-Question#1
+#Question 1: Which drugs are the most lethal.
 
 1 Opioids
 2 Pscyho Stimulants
@@ -14,8 +12,6 @@ After downloading the data from the CDC our teams first steps were to understand
 
 
 #Question:is there an opiod crisis in the US?
-
-Question#2
 
 For my second graph I filtered for deaths from only the top four lethal drugs and compared them over time.
 From this we found that Opiods were responsible for over 800kdeaths while the next most lethal drugs Psycho stimulants had only 400k
