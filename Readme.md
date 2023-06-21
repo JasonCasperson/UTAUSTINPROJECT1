@@ -1,7 +1,26 @@
 For our groups project, we examined data from the CDC(https://catalog.data.gov/dataset/vsrr-provisional-drug-overdose-death-counts) and Rutgers to investigate the nationwide issue of drug overdose deaths. We wanted to understand if there truly is an opioid crisis occuring in our country and if there are any socioeconomic factors that contribute negativly or decrease the amount of OD deaths state/nation wide. 
 
+#Question: Which drugs are the most lethal.
+
+Question#1
+
+1 Opioids
+2 Pscyho Stimulants
+3 Cocaine 
+4 Herion
 
 After downloading the data from the CDC our teams first steps were to understand what data was represented in the file.  We explored which drugs, states and years were used in the data set, then filtered our new data sets down to contain only the values we wanted. We removed blank values and reorganized our data so it was clearer to understand. Finally we made graphs depicting the key findings of the data set.
+
+
+#Question is there an opiod crisis in the US
+
+For my second graph I filtered for deaths from only the top four lethal drugs and compared them over time.
+From this we found that Opiods were responsible for over 800kdeaths while the next most lethal drugs Psycho stimulants had only 400k
+The reamining three drugs had less that 300k deaths with heroin use decreasing over time.
+From this we can conclude that with an upward treading reaching numbers twice and great as the next drug on the list, there is an opiod crisis in the country
+
+
+Question #2 
 
 # Question: How many drug overdoses are there in the U.S. and which state has the highest death count?
 Using the VSRR dataset we got from the CDC, I filtered the dataset to eliminate the columns that were unnecessary and only contain the overall US statistics for all years included in the data, 2015-2022. I created summed totals for all years and defined a function to calculate the percentage increase among the years, I then proceeded to graph my findings using a bar graph titled: 'Number of Total Drug Overdose Deaths in the US' .  My conclusion for this graph is that from 2015 up until 2022 there has been an overall increase of drug overdose deaths in the U.S. by about 113.86% . There was a moment in between these years from 2017-2019 when the overall deaths remained almost the same with there even being a small decrease in 2019 of 0.43%. We see the biggest jump in overdose deaths in between 2020 and 2021 with a total of 221,145 deaths or an increase of 22.21%
